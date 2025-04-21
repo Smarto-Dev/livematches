@@ -57,10 +57,3 @@ I never tried
 2. Find a better way to organize css
 3. Unit test
 
-
-## License
-
-MIT
-
-# By
- Jasmin F.
